@@ -22,6 +22,9 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
     
+    /* Module Interop */
+    "esModuleInterop": true,
+    
     /* Paths */
     "baseUrl": ".",
     "paths": {
